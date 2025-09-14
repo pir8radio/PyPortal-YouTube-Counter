@@ -113,4 +113,4 @@ Commercial use of this software to manufacture or sell YouTube counter devices i
 See the [LICENSE](./LICENSE) file for full terms.
 
 ## Tags
-@adafruit
+@adafruit - This project uses [Adafruit_CircuitPython_PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase).
