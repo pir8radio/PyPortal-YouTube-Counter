@@ -112,4 +112,5 @@ This project is licensed under a modified MIT License.
 Commercial use of this software to manufacture or sell YouTube counter devices is prohibited without written permission.  
 See the [LICENSE](./LICENSE) file for full terms.
 
+## Tags
 @adafruit
