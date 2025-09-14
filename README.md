@@ -113,5 +113,4 @@ Commercial use of this software to manufacture or sell YouTube counter devices i
 See the [LICENSE](./LICENSE) file for full terms.
 
 ## Tags
-@adafruit - This project uses [Adafruit_CircuitPython_PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase).
-            Based off of this [original code:] (https://learn.adafruit.com/pyportal-youtube-views-and-subscribers-display/code-pyportal-with-circuitpython)
+@adafruit - This project uses [Adafruit_CircuitPython_PortalBase](https://github.com/adafruit/Adafruit_CircuitPython_PortalBase) and is based off of this [original code](https://learn.adafruit.com/pyportal-youtube-views-and-subscribers-display/code-pyportal-with-circuitpython).
