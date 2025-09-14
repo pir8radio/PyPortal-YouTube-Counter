@@ -108,4 +108,6 @@ time.sleep(300)  # Time in seconds
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under a modified MIT License.  
+Commercial use of this software to manufacture or sell YouTube counter devices is prohibited without written permission.  
+See the [LICENSE](./LICENSE) file for full terms.
