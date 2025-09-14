@@ -48,6 +48,11 @@ while True:
             print("New subscriber!")
             pyportal.play_file(cwd+"/coin.wav")
         last_subs = subs
+# Uncomment below if you for some reason want a ding every time a new view happens. 
+#        if last_views < views:  # Count went up!
+#            print("New view!")
+#            pyportal.play_file(cwd+"/coin.wav") # add a different sound to be less annoying?
+#        last_views = views
     except (RuntimeError, OSError, ConnectionError) as e:
         print("Some error occured, retrying! -", e)
         supervisor.reload()
