@@ -22,7 +22,6 @@ A sleek subscriber and view count display for your YouTube channel, powered by A
 - [Adafruit PyPortal](https://www.adafruit.com/product/4116)
 - MicroUSB cable
 - Wi-Fi connection
-- Optional: Speaker or buzzer for audio feedback
 
 ---
 
