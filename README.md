@@ -1,4 +1,7 @@
-# 📺 PyPortal YouTube Counter
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/d3f30ba0-6621-48ce-87c8-389d28b05bec" /><img width="300" alt="image" src="https://github.com/user-attachments/assets/f4f7005e-1576-47ce-be8e-7750411bd0d4" />
+
+
+# PyPortal YouTube Counter
 
 A sleek subscriber and view count display for your YouTube channel, powered by Adafruit PyPortal. This project fetches real-time statistics from the YouTube Data API and displays them with custom fonts, background, and even a celebratory sound when a new subscriber joins.
 
